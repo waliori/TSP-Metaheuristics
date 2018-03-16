@@ -1,2 +1,2 @@
-# TSP-Metaheuristics-
-Simulated annealing, Taboo ,genetic algorithm, nearest neighbor
+# TSP-Metaheuristics
+TSP with Simulated annealing, Taboo ,genetic algorithm and nearest neighbor
